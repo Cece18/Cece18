@@ -1,6 +1,6 @@
 ### Hi there 👋
 # 💫 About Me:
-I'm a fourth year Computer Science student, with an interest in AI and machine learning. <br>I love reading and playing video games when im not spending <br>unhealthy amounts of time staring at code
+I'm a fourth year Computer Science student, with an interest in AI and machine learning. <br>I love reading and playing video games when im not spending an <br>unhealthy amounts of time staring at code
 
 
 ## 🌐 Socials:
