@@ -1,6 +1,6 @@
 ### Hi there 👋
 # 💫 About Me:
-I'm a third year Computer Science student, with an interest in AI and machine learning.<br>Im currently looking for a summer internship for 2024. <br>I love reading and playing video games when im not spending <br>unhealthy amounts of time staring at code
+I'm a fourth year Computer Science student, with an interest in AI and machine learning. <br>I love reading and playing video games when im not spending <br>unhealthy amounts of time staring at code
 
 
 ## 🌐 Socials:
